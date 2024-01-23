@@ -67,8 +67,10 @@ body {
 
 .purple-card {
     color: #fff;
-    background-image: url();
     background:hsl(263, 55%, 52%) ;
+    background-repeat: no-repeat;
+    background-position: top 10px right 100px;
+    background-image: url(images/bg-pattern-quotation.svg);
 } 
 
 .grey-card {
